@@ -10,19 +10,8 @@ Este repositório contém os notebooks, scripts e arquivos de dados desenvolvido
 Capacitar no uso de ferramentas e técnicas de Ciência de Dados aplicadas a problemas reais, com foco em:
 
 - Manipulação e análise de dados com Python
-- Consumo de dados via API
 - Visualização e interpretação de resultados
-- Exportação de resultados para formatos como CSV e JSON
-
-## 📂 Estrutura do Projeto
-
-- `Inicio.ipynb`: Introdução ao projeto e primeiros passos com análise de dados
-- `Analise.ipynb`: Cálculo da média de horas-aula diária e exploração do conjunto de dados
-- `ConsumoAPI.ipynb`: Integração com APIs públicas para coleta e análise de dados externos
-- `atu-mod.csv`: Base de dados utilizada nas análises
-- `resultado.json`: Resultados exportados após o processamento
-- `teste.py`: Script complementar usado para testes ou automações
-- `requirements.txt`: Lista de dependências do projeto
+- Exportação de resultados para formatos como CSV 
 
 ## 🛠️ Tecnologias e Bibliotecas
 
