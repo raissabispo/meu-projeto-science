@@ -1,0 +1,592 @@
+﻿ug,loc,da,ti,tf,tm
+Brasil,Total,Total,6.2,5.1,6.0
+Brasil,Urbana,Total,6.4,5.2,6.0
+Brasil,Rural,Total,5.0,5.1,6.1
+Brasil,Total,Federal,6.1,5.1,7.7
+Brasil,Urbana,Federal,6.3,5.1,7.5
+Brasil,Rural,Federal,4.0,,8.8
+Brasil,Total,Estadual,5.3,5.4,6.0
+Brasil,Urbana,Estadual,5.3,5.4,6.0
+Brasil,Rural,Estadual,5.0,4.9,5.6
+Brasil,Total,Municipal,6.1,5.2,5.2
+Brasil,Urbana,Municipal,6.3,5.2,5.3
+Brasil,Rural,Municipal,5.0,5.2,4.7
+Brasil,Total,Privada,6.5,4.8,5.9
+Brasil,Urbana,Privada,6.6,4.8,5.8
+Brasil,Rural,Privada,5.8,5.4,10.3
+Brasil,Total,Pública,6.1,5.2,6.1
+Brasil,Urbana,Pública,6.3,5.2,6.1
+Brasil,Rural,Pública,5.0,5.1,5.9
+Norte,Total,Total,4.7,4.9,5.5
+Norte,Urbana,Total,4.9,4.9,5.5
+Norte,Rural,Total,4.4,4.7,5.1
+Norte,Total,Federal,4.2,4.9,8.0
+Norte,Urbana,Federal,4.2,4.9,7.8
+Norte,Rural,Federal,,,9.1
+Norte,Total,Estadual,6.7,5.0,5.3
+Norte,Urbana,Estadual,10.0,5.0,5.4
+Norte,Rural,Estadual,4.4,4.7,4.8
+Norte,Total,Municipal,4.8,4.8,9.1
+Norte,Urbana,Municipal,4.9,4.9,10.0
+Norte,Rural,Municipal,4.4,4.7,4.0
+Norte,Total,Privada,4.6,4.7,5.9
+Norte,Urbana,Privada,4.6,4.7,5.7
+Norte,Rural,Privada,3.9,6.1,11.0
+Norte,Total,Pública,4.8,4.9,5.4
+Norte,Urbana,Pública,4.9,5.0,5.5
+Norte,Rural,Pública,4.4,4.7,5.0
+Nordeste,Total,Total,5.3,5.3,6.7
+Nordeste,Urbana,Total,5.4,5.3,6.8
+Nordeste,Rural,Total,5.0,5.4,6.4
+Nordeste,Total,Federal,3.9,5.0,7.3
+Nordeste,Urbana,Federal,3.9,5.0,7.2
+Nordeste,Rural,Federal,,,7.9
+Nordeste,Total,Estadual,5.1,5.3,6.8
+Nordeste,Urbana,Estadual,6.0,5.4,6.9
+Nordeste,Rural,Estadual,4.8,4.7,6.1
+Nordeste,Total,Municipal,5.5,5.5,4.0
+Nordeste,Urbana,Municipal,5.7,5.5,3.8
+Nordeste,Rural,Municipal,5.0,5.4,4.2
+Nordeste,Total,Privada,4.7,4.5,5.9
+Nordeste,Urbana,Privada,4.7,4.5,5.7
+Nordeste,Rural,Privada,5.4,5.3,12.3
+Nordeste,Total,Pública,5.5,5.5,6.8
+Nordeste,Urbana,Pública,5.7,5.5,6.9
+Nordeste,Rural,Pública,5.0,5.4,6.2
+Sudeste,Total,Total,6.8,5.3,6.1
+Sudeste,Urbana,Total,6.8,5.3,6.0
+Sudeste,Rural,Total,5.6,5.2,6.8
+Sudeste,Total,Federal,7.1,5.1,8.5
+Sudeste,Urbana,Federal,7.4,5.1,8.3
+Sudeste,Rural,Federal,4.0,,9.7
+Sudeste,Total,Estadual,6.7,5.7,6.0
+Sudeste,Urbana,Estadual,7.9,5.7,6.0
+Sudeste,Rural,Estadual,4.7,5.6,6.0
+Sudeste,Total,Municipal,6.5,5.2,5.4
+Sudeste,Urbana,Municipal,6.6,5.3,5.4
+Sudeste,Rural,Municipal,5.6,5.0,4.9
+Sudeste,Total,Privada,7.2,5.0,6.0
+Sudeste,Urbana,Privada,7.2,5.0,5.9
+Sudeste,Rural,Privada,6.3,5.4,9.8
+Sudeste,Total,Pública,6.5,5.4,6.1
+Sudeste,Urbana,Pública,6.6,5.4,6.1
+Sudeste,Rural,Pública,5.6,5.1,6.5
+Sul,Total,Total,7.3,4.7,5.3
+Sul,Urbana,Total,7.3,4.7,5.2
+Sul,Rural,Total,5.9,4.7,6.0
+Sul,Total,Federal,5.0,5.1,6.8
+Sul,Urbana,Federal,5.0,5.1,6.6
+Sul,Rural,Federal,,,8.2
+Sul,Total,Estadual,5.1,4.8,5.1
+Sul,Urbana,Estadual,7.2,4.8,5.1
+Sul,Rural,Estadual,4.3,4.6,5.7
+Sul,Total,Municipal,7.1,4.6,5.2
+Sul,Urbana,Municipal,7.2,4.6,5.1
+Sul,Rural,Municipal,5.8,4.7,5.9
+Sul,Total,Privada,7.9,4.7,5.5
+Sul,Urbana,Privada,7.9,4.7,5.5
+Sul,Rural,Privada,9.2,4.4,6.3
+Sul,Total,Pública,7.1,4.7,5.2
+Sul,Urbana,Pública,7.2,4.7,5.2
+Sul,Rural,Pública,5.8,4.7,6.0
+Centro-Oeste,Total,Total,6.0,4.9,5.5
+Centro-Oeste,Urbana,Total,6.0,4.9,5.5
+Centro-Oeste,Rural,Total,4.8,4.9,6.0
+Centro-Oeste,Total,Federal,7.3,5.1,7.7
+Centro-Oeste,Urbana,Federal,7.3,5.1,7.2
+Centro-Oeste,Rural,Federal,,,9.4
+Centro-Oeste,Total,Estadual,5.2,5.2,5.4
+Centro-Oeste,Urbana,Estadual,5.2,5.2,5.4
+Centro-Oeste,Rural,Estadual,5.7,5.0,5.1
+Centro-Oeste,Total,Municipal,6.0,4.8,6.4
+Centro-Oeste,Urbana,Municipal,6.1,4.7,6.1
+Centro-Oeste,Rural,Municipal,4.7,4.8,7.0
+Centro-Oeste,Total,Privada,6.1,4.8,5.8
+Centro-Oeste,Urbana,Privada,6.1,4.7,5.8
+Centro-Oeste,Rural,Privada,6.5,6.8,7.5
+Centro-Oeste,Total,Pública,5.9,5.0,5.5
+Centro-Oeste,Urbana,Pública,6.0,5.0,5.5
+Centro-Oeste,Rural,Pública,4.8,4.9,5.9
+Rondônia,Total,Total,4.5,4.4,5.8
+Rondônia,Urbana,Total,4.5,4.4,5.6
+Rondônia,Rural,Total,4.3,4.4,7.9
+Rondônia,Total,Federal,,,7.2
+Rondônia,Urbana,Federal,,,6.5
+Rondônia,Rural,Federal,,,9.6
+Rondônia,Total,Estadual,4.3,4.4,5.6
+Rondônia,Urbana,Estadual,4.3,4.4,5.6
+Rondônia,Rural,Estadual,,4.2,5.4
+Rondônia,Total,Municipal,4.4,4.3,
+Rondônia,Urbana,Municipal,4.4,4.3,
+Rondônia,Rural,Municipal,4.3,4.4,
+Rondônia,Total,Privada,4.7,4.6,6.9
+Rondônia,Urbana,Privada,4.7,4.6,5.7
+Rondônia,Rural,Privada,,5.3,12.8
+Rondônia,Total,Pública,4.4,4.3,5.7
+Rondônia,Urbana,Pública,4.4,4.4,5.6
+Rondônia,Rural,Pública,4.3,4.3,6.8
+Acre,Total,Total,4.8,4.7,5.7
+Acre,Urbana,Total,5.0,4.8,6.0
+Acre,Rural,Total,4.2,4.4,4.6
+Acre,Total,Federal,4.1,4.3,6.0
+Acre,Urbana,Federal,4.1,4.3,6.5
+Acre,Rural,Federal,,,4.6
+Acre,Total,Estadual,4.2,4.7,5.7
+Acre,Urbana,Estadual,,4.8,6.1
+Acre,Rural,Estadual,4.2,4.5,4.6
+Acre,Total,Municipal,4.8,4.6,
+Acre,Urbana,Municipal,5.0,4.7,
+Acre,Rural,Municipal,4.2,4.4,
+Acre,Total,Privada,4.5,5.0,5.2
+Acre,Urbana,Privada,4.5,5.0,5.2
+Acre,Total,Pública,4.8,4.7,5.7
+Acre,Urbana,Pública,5.0,4.8,6.1
+Acre,Rural,Pública,4.2,4.4,4.6
+Amazonas,Total,Total,4.4,4.6,5.1
+Amazonas,Urbana,Total,4.5,4.6,5.3
+Amazonas,Rural,Total,4.2,4.5,4.3
+Amazonas,Total,Federal,,5.4,10.3
+Amazonas,Urbana,Federal,,5.4,10.3
+Amazonas,Rural,Federal,,,10.5
+Amazonas,Total,Estadual,,4.8,4.9
+Amazonas,Urbana,Estadual,,4.8,5.1
+Amazonas,Rural,Estadual,,4.5,4.1
+Amazonas,Total,Municipal,4.4,4.5,
+Amazonas,Urbana,Municipal,4.4,4.5,
+Amazonas,Rural,Municipal,4.2,4.5,
+Amazonas,Total,Privada,4.9,4.6,5.7
+Amazonas,Urbana,Privada,4.9,4.6,5.7
+Amazonas,Rural,Privada,4.5,4.6,5.5
+Amazonas,Total,Pública,4.4,4.6,5.1
+Amazonas,Urbana,Pública,4.4,4.6,5.3
+Amazonas,Rural,Pública,4.2,4.5,4.3
+Roraima,Total,Total,4.9,4.5,5.5
+Roraima,Urbana,Total,5.1,4.5,5.6
+Roraima,Rural,Total,4.4,4.5,5.2
+Roraima,Total,Federal,,4.7,8.6
+Roraima,Urbana,Federal,,4.7,8.6
+Roraima,Rural,Federal,,,8.7
+Roraima,Total,Estadual,,4.4,5.3
+Roraima,Urbana,Estadual,,4.4,5.4
+Roraima,Rural,Estadual,,4.5,4.7
+Roraima,Total,Municipal,4.9,4.5,
+Roraima,Urbana,Municipal,5.1,4.5,
+Roraima,Rural,Municipal,4.4,4.5,
+Roraima,Total,Privada,5.0,4.9,5.6
+Roraima,Urbana,Privada,5.0,4.9,5.6
+Roraima,Rural,Privada,,,5.4
+Roraima,Total,Pública,4.9,4.5,5.5
+Roraima,Urbana,Pública,5.1,4.5,5.6
+Roraima,Rural,Pública,4.4,4.5,5.2
+Pará,Total,Total,4.8,4.9,5.3
+Pará,Urbana,Total,4.9,5.0,5.4
+Pará,Rural,Total,4.4,4.8,5.0
+Pará,Total,Federal,4.2,4.9,6.3
+Pará,Urbana,Federal,4.2,4.9,6.2
+Pará,Rural,Federal,,,9.0
+Pará,Total,Estadual,9.6,5.4,5.3
+Pará,Urbana,Estadual,10.8,5.4,5.3
+Pará,Rural,Estadual,4.5,5.3,4.8
+Pará,Total,Municipal,4.8,4.9,9.1
+Pará,Urbana,Municipal,5.0,5.0,10.0
+Pará,Rural,Municipal,4.4,4.8,4.0
+Pará,Total,Privada,4.5,4.7,5.8
+Pará,Urbana,Privada,4.5,4.7,5.6
+Pará,Rural,Privada,3.8,5.1,10.0
+Pará,Total,Pública,4.8,5.0,5.3
+Pará,Urbana,Pública,5.0,5.0,5.4
+Pará,Rural,Pública,4.4,4.8,4.9
+Amapá,Total,Total,5.0,5.4,6.6
+Amapá,Urbana,Total,5.0,5.4,6.7
+Amapá,Rural,Total,5.1,5.1,6.3
+Amapá,Total,Federal,,,7.7
+Amapá,Urbana,Federal,,,7.7
+Amapá,Total,Estadual,4.5,5.5,6.6
+Amapá,Urbana,Estadual,,5.6,6.7
+Amapá,Rural,Estadual,4.5,5.1,6.1
+Amapá,Total,Municipal,5.0,5.3,
+Amapá,Urbana,Municipal,5.0,5.3,
+Amapá,Rural,Municipal,5.1,5.2,
+Amapá,Total,Privada,4.4,4.9,6.3
+Amapá,Urbana,Privada,4.4,4.8,6.0
+Amapá,Rural,Privada,,7.9,10.6
+Amapá,Total,Pública,5.0,5.4,6.6
+Amapá,Urbana,Pública,5.0,5.5,6.7
+Amapá,Rural,Pública,5.1,5.1,6.1
+Tocantins,Total,Total,5.4,5.9,5.9
+Tocantins,Urbana,Total,5.4,5.9,5.8
+Tocantins,Rural,Total,5.3,6.1,7.4
+Tocantins,Total,Federal,,,10.0
+Tocantins,Urbana,Federal,,,10.0
+Tocantins,Rural,Federal,,,10.1
+Tocantins,Total,Estadual,,5.9,5.7
+Tocantins,Urbana,Estadual,,5.9,5.6
+Tocantins,Rural,Estadual,,5.4,6.9
+Tocantins,Total,Municipal,5.5,6.1,
+Tocantins,Urbana,Municipal,5.5,6.1,
+Tocantins,Rural,Municipal,5.3,6.3,
+Tocantins,Total,Privada,4.8,4.7,5.7
+Tocantins,Urbana,Privada,4.8,4.6,5.7
+Tocantins,Rural,Privada,4.2,9.2,10.2
+Tocantins,Total,Pública,5.5,6.0,5.9
+Tocantins,Urbana,Pública,5.5,6.0,5.8
+Tocantins,Rural,Pública,5.3,6.0,7.3
+Maranhão,Total,Total,4.6,5.5,6.0
+Maranhão,Urbana,Total,4.7,5.5,6.0
+Maranhão,Rural,Total,4.4,5.5,5.7
+Maranhão,Total,Federal,,5.2,6.0
+Maranhão,Urbana,Federal,,5.2,5.7
+Maranhão,Rural,Federal,,,6.8
+Maranhão,Total,Estadual,8.6,4.5,6.0
+Maranhão,Urbana,Estadual,8.6,4.8,6.1
+Maranhão,Rural,Estadual,4.3,4.1,5.4
+Maranhão,Total,Municipal,4.6,5.6,3.8
+Maranhão,Urbana,Municipal,4.7,5.7,3.8
+Maranhão,Rural,Municipal,4.3,5.5,3.9
+Maranhão,Total,Privada,4.7,4.6,6.5
+Maranhão,Urbana,Privada,4.6,4.6,5.8
+Maranhão,Rural,Privada,5.0,4.8,11.5
+Maranhão,Total,Pública,4.6,5.6,6.0
+Maranhão,Urbana,Pública,4.7,5.6,6.1
+Maranhão,Rural,Pública,4.3,5.5,5.5
+Piauí,Total,Total,5.3,5.9,7.9
+Piauí,Urbana,Total,5.3,5.9,8.0
+Piauí,Rural,Total,5.5,6.0,6.5
+Piauí,Total,Federal,,,5.9
+Piauí,Urbana,Federal,,,6.0
+Piauí,Rural,Federal,,,5.2
+Piauí,Total,Estadual,,6.1,8.2
+Piauí,Urbana,Estadual,,6.1,8.3
+Piauí,Rural,Estadual,,7.8,6.6
+Piauí,Total,Municipal,5.5,6.1,
+Piauí,Urbana,Municipal,5.5,6.1,
+Piauí,Rural,Municipal,5.5,6.0,
+Piauí,Total,Privada,4.2,4.9,6.7
+Piauí,Urbana,Privada,4.2,4.9,6.7
+Piauí,Rural,Privada,,8.7,8.7
+Piauí,Total,Pública,5.5,6.1,8.1
+Piauí,Urbana,Pública,5.5,6.1,8.2
+Piauí,Rural,Pública,5.5,6.0,6.5
+Ceará,Total,Total,5.2,6.0,7.4
+Ceará,Urbana,Total,5.3,6.0,7.4
+Ceará,Rural,Total,4.8,6.2,8.0
+Ceará,Total,Federal,4.0,5.0,9.7
+Ceará,Urbana,Federal,4.0,5.0,9.7
+Ceará,Rural,Federal,,,10.0
+Ceará,Total,Estadual,4.3,4.4,7.6
+Ceará,Urbana,Estadual,4.9,4.6,7.5
+Ceará,Rural,Estadual,4.0,4.0,7.9
+Ceará,Total,Municipal,5.2,6.4,
+Ceará,Urbana,Municipal,5.4,6.5,
+Ceará,Rural,Municipal,4.8,6.3,
+Ceará,Total,Privada,4.9,4.4,5.5
+Ceará,Urbana,Privada,4.9,4.4,5.5
+Ceará,Rural,Privada,5.0,4.5,20.3
+Ceará,Total,Pública,5.2,6.4,7.6
+Ceará,Urbana,Pública,5.4,6.5,7.6
+Ceará,Rural,Pública,4.8,6.2,8.0
+Rio Grande do Norte,Total,Total,4.5,4.9,5.5
+Rio Grande do Norte,Urbana,Total,4.5,4.9,5.5
+Rio Grande do Norte,Rural,Total,4.5,5.0,5.7
+Rio Grande do Norte,Total,Federal,3.8,4.3,5.2
+Rio Grande do Norte,Urbana,Federal,3.8,4.3,5.0
+Rio Grande do Norte,Rural,Federal,,,6.6
+Rio Grande do Norte,Total,Estadual,,5.0,5.5
+Rio Grande do Norte,Urbana,Estadual,,5.0,5.6
+Rio Grande do Norte,Rural,Estadual,,4.9,5.4
+Rio Grande do Norte,Total,Municipal,4.6,5.0,
+Rio Grande do Norte,Urbana,Municipal,4.6,5.0,
+Rio Grande do Norte,Rural,Municipal,4.5,5.0,
+Rio Grande do Norte,Total,Privada,4.4,4.6,5.5
+Rio Grande do Norte,Urbana,Privada,4.4,4.6,5.5
+Rio Grande do Norte,Rural,Privada,4.2,4.3,4.5
+Rio Grande do Norte,Total,Pública,4.6,5.0,5.5
+Rio Grande do Norte,Urbana,Pública,4.6,5.0,5.5
+Rio Grande do Norte,Rural,Pública,4.5,5.0,5.7
+Paraíba,Total,Total,6.0,5.2,7.3
+Paraíba,Urbana,Total,6.1,5.2,7.3
+Paraíba,Rural,Total,5.3,5.3,6.2
+Paraíba,Total,Federal,4.0,4.1,9.6
+Paraíba,Urbana,Federal,4.0,4.1,9.6
+Paraíba,Rural,Federal,,,10.3
+Paraíba,Total,Estadual,5.4,5.4,7.4
+Paraíba,Urbana,Estadual,4.2,5.5,7.5
+Paraíba,Rural,Estadual,5.8,5.2,6.0
+Paraíba,Total,Municipal,6.6,5.4,3.9
+Paraíba,Urbana,Municipal,7.0,5.4,3.6
+Paraíba,Rural,Municipal,5.3,5.3,4.8
+Paraíba,Total,Privada,4.2,4.4,5.4
+Paraíba,Urbana,Privada,4.2,4.4,5.4
+Paraíba,Rural,Privada,4.6,4.3,
+Paraíba,Total,Pública,6.6,5.4,7.6
+Paraíba,Urbana,Pública,7.0,5.4,7.6
+Paraíba,Rural,Pública,5.3,5.3,6.2
+Pernambuco,Total,Total,5.2,4.9,7.7
+Pernambuco,Urbana,Total,5.3,4.9,7.8
+Pernambuco,Rural,Total,4.9,4.7,6.5
+Pernambuco,Total,Federal,,5.3,6.1
+Pernambuco,Urbana,Federal,,5.3,5.6
+Pernambuco,Rural,Federal,,,8.0
+Pernambuco,Total,Estadual,5.3,5.5,8.0
+Pernambuco,Urbana,Estadual,7.3,5.6,8.1
+Pernambuco,Rural,Estadual,5.0,5.0,6.4
+Pernambuco,Total,Municipal,5.4,4.9,3.5
+Pernambuco,Urbana,Municipal,5.7,5.0,
+Pernambuco,Rural,Municipal,4.7,4.7,3.5
+Pernambuco,Total,Privada,4.8,4.5,5.7
+Pernambuco,Urbana,Privada,4.7,4.5,5.7
+Pernambuco,Rural,Privada,8.3,4.6,5.9
+Pernambuco,Total,Pública,5.4,5.0,7.9
+Pernambuco,Urbana,Pública,5.7,5.1,8.0
+Pernambuco,Rural,Pública,4.7,4.7,6.5
+Alagoas,Total,Total,5.9,5.3,6.9
+Alagoas,Urbana,Total,5.9,5.2,6.9
+Alagoas,Rural,Total,5.7,5.5,7.0
+Alagoas,Total,Federal,,,6.1
+Alagoas,Urbana,Federal,,,6.1
+Alagoas,Total,Estadual,5.5,6.2,7.2
+Alagoas,Urbana,Estadual,4.8,6.3,7.2
+Alagoas,Rural,Estadual,5.9,5.3,7.0
+Alagoas,Total,Municipal,6.2,5.4,
+Alagoas,Urbana,Municipal,6.5,5.4,
+Alagoas,Rural,Municipal,5.8,5.5,
+Alagoas,Total,Privada,4.1,4.4,5.6
+Alagoas,Urbana,Privada,4.1,4.4,5.6
+Alagoas,Rural,Privada,4.0,4.2,5.3
+Alagoas,Total,Pública,6.2,5.5,7.1
+Alagoas,Urbana,Pública,6.5,5.5,7.1
+Alagoas,Rural,Pública,5.8,5.5,7.0
+Sergipe,Total,Total,5.7,5.5,7.6
+Sergipe,Urbana,Total,5.6,5.3,7.6
+Sergipe,Rural,Total,6.0,6.1,7.8
+Sergipe,Total,Federal,,5.0,9.7
+Sergipe,Urbana,Federal,,5.0,9.4
+Sergipe,Rural,Federal,,,10.2
+Sergipe,Total,Estadual,,5.6,7.9
+Sergipe,Urbana,Estadual,,5.6,7.9
+Sergipe,Rural,Estadual,,5.5,7.2
+Sergipe,Total,Municipal,6.1,5.8,
+Sergipe,Urbana,Municipal,6.2,5.6,
+Sergipe,Rural,Municipal,6.0,6.1,
+Sergipe,Total,Privada,4.5,4.8,5.8
+Sergipe,Urbana,Privada,4.5,4.8,5.8
+Sergipe,Rural,Privada,4.7,5.5,
+Sergipe,Total,Pública,6.1,5.7,7.9
+Sergipe,Urbana,Pública,6.2,5.6,7.9
+Sergipe,Rural,Pública,6.0,6.1,7.8
+Bahia,Total,Total,5.7,5.0,5.7
+Bahia,Urbana,Total,5.8,4.9,5.6
+Bahia,Rural,Total,5.4,5.1,6.2
+Bahia,Total,Federal,,5.1,8.9
+Bahia,Urbana,Federal,,5.1,9.0
+Bahia,Rural,Federal,,,8.7
+Bahia,Total,Estadual,4.5,4.9,5.5
+Bahia,Urbana,Estadual,,4.9,5.5
+Bahia,Rural,Estadual,4.5,4.5,5.3
+Bahia,Total,Municipal,5.9,5.1,4.6
+Bahia,Urbana,Municipal,6.2,5.1,3.7
+Bahia,Rural,Municipal,5.4,5.1,4.9
+Bahia,Total,Privada,4.9,4.6,6.2
+Bahia,Urbana,Privada,4.9,4.5,5.8
+Bahia,Rural,Privada,4.5,6.5,13.5
+Bahia,Total,Pública,5.9,5.1,5.6
+Bahia,Urbana,Pública,6.2,5.0,5.6
+Bahia,Rural,Pública,5.4,5.1,5.5
+Minas Gerais,Total,Total,6.1,4.9,6.0
+Minas Gerais,Urbana,Total,6.2,4.9,5.9
+Minas Gerais,Rural,Total,5.3,4.8,7.5
+Minas Gerais,Total,Federal,4.0,5.3,9.7
+Minas Gerais,Urbana,Federal,4.0,5.3,9.7
+Minas Gerais,Rural,Federal,,,9.9
+Minas Gerais,Total,Estadual,4.5,4.7,5.8
+Minas Gerais,Urbana,Estadual,4.3,4.7,5.8
+Minas Gerais,Rural,Estadual,4.5,4.8,5.1
+Minas Gerais,Total,Municipal,6.1,5.0,5.4
+Minas Gerais,Urbana,Municipal,6.2,5.0,5.4
+Minas Gerais,Rural,Municipal,5.3,4.8,5.3
+Minas Gerais,Total,Privada,6.2,4.8,5.9
+Minas Gerais,Urbana,Privada,6.2,4.8,5.7
+Minas Gerais,Rural,Privada,6.3,7.9,13.6
+Minas Gerais,Total,Pública,6.1,4.9,6.0
+Minas Gerais,Urbana,Pública,6.2,4.9,5.9
+Minas Gerais,Rural,Pública,5.3,4.8,6.8
+Espírito Santo,Total,Total,5.3,5.2,6.2
+Espírito Santo,Urbana,Total,5.3,5.1,6.1
+Espírito Santo,Rural,Total,5.5,5.5,8.1
+Espírito Santo,Total,Federal,4.5,,7.1
+Espírito Santo,Urbana,Federal,4.5,,6.4
+Espírito Santo,Rural,Federal,,,9.3
+Espírito Santo,Total,Estadual,,6.2,6.1
+Espírito Santo,Urbana,Estadual,,6.2,6.1
+Espírito Santo,Rural,Estadual,,6.1,6.2
+Espírito Santo,Total,Municipal,5.3,5.0,
+Espírito Santo,Urbana,Municipal,5.3,5.0,
+Espírito Santo,Rural,Municipal,5.5,5.3,
+Espírito Santo,Total,Privada,5.3,4.9,5.9
+Espírito Santo,Urbana,Privada,5.3,4.8,5.5
+Espírito Santo,Rural,Privada,8.7,10.0,10.0
+Espírito Santo,Total,Pública,5.3,5.2,6.2
+Espírito Santo,Urbana,Pública,5.3,5.2,6.1
+Espírito Santo,Rural,Pública,5.5,5.4,7.5
+Rio de Janeiro,Total,Total,5.8,5.0,6.0
+Rio de Janeiro,Urbana,Total,5.8,5.0,6.0
+Rio de Janeiro,Rural,Total,5.8,4.9,6.2
+Rio de Janeiro,Total,Federal,7.8,5.1,7.7
+Rio de Janeiro,Urbana,Federal,7.8,5.1,7.6
+Rio de Janeiro,Rural,Federal,,,9.2
+Rio de Janeiro,Total,Estadual,4.8,5.5,5.9
+Rio de Janeiro,Urbana,Estadual,4.8,5.5,5.9
+Rio de Janeiro,Rural,Estadual,,5.5,6.1
+Rio de Janeiro,Total,Municipal,5.9,5.1,6.5
+Rio de Janeiro,Urbana,Municipal,5.9,5.1,6.5
+Rio de Janeiro,Rural,Municipal,5.8,4.9,
+Rio de Janeiro,Total,Privada,5.7,4.7,6.1
+Rio de Janeiro,Urbana,Privada,5.7,4.7,6.1
+Rio de Janeiro,Rural,Privada,5.5,4.7,6.3
+Rio de Janeiro,Total,Pública,5.9,5.2,6.0
+Rio de Janeiro,Urbana,Pública,5.9,5.2,6.0
+Rio de Janeiro,Rural,Pública,5.8,4.9,6.2
+São Paulo,Total,Total,7.4,5.7,6.1
+São Paulo,Urbana,Total,7.4,5.7,6.1
+São Paulo,Rural,Total,6.0,5.8,6.3
+São Paulo,Total,Federal,9.3,5.3,7.6
+São Paulo,Urbana,Federal,10.9,5.3,7.6
+São Paulo,Rural,Federal,4.0,,
+São Paulo,Total,Estadual,8.5,6.2,6.2
+São Paulo,Urbana,Estadual,9.1,6.2,6.2
+São Paulo,Rural,Estadual,5.5,6.4,6.4
+São Paulo,Total,Municipal,7.0,5.5,5.3
+São Paulo,Urbana,Municipal,7.0,5.5,5.3
+São Paulo,Rural,Municipal,5.9,5.6,4.5
+São Paulo,Total,Privada,8.0,5.2,6.0
+São Paulo,Urbana,Privada,8.0,5.2,6.0
+São Paulo,Rural,Privada,6.8,5.0,5.8
+São Paulo,Total,Pública,7.0,5.8,6.2
+São Paulo,Urbana,Pública,7.0,5.8,6.2
+São Paulo,Rural,Pública,5.9,5.8,6.4
+Paraná,Total,Total,6.8,5.0,5.5
+Paraná,Urbana,Total,6.8,5.0,5.5
+Paraná,Rural,Total,4.8,4.7,5.8
+Paraná,Total,Federal,,5.3,5.2
+Paraná,Urbana,Federal,,5.3,5.2
+Paraná,Rural,Federal,,,4.6
+Paraná,Total,Estadual,4.6,5.3,5.6
+Paraná,Urbana,Estadual,5.5,5.3,5.5
+Paraná,Rural,Estadual,4.5,5.1,5.8
+Paraná,Total,Municipal,6.8,4.8,
+Paraná,Urbana,Municipal,6.9,4.8,
+Paraná,Rural,Municipal,4.8,4.5,
+Paraná,Total,Privada,6.6,4.8,5.4
+Paraná,Urbana,Privada,6.6,4.8,5.4
+Paraná,Rural,Privada,4.4,4.4,5.8
+Paraná,Total,Pública,6.8,5.0,5.5
+Paraná,Urbana,Pública,6.9,5.1,5.5
+Paraná,Rural,Pública,4.8,4.7,5.8
+Santa Catarina,Total,Total,7.4,4.5,4.5
+Santa Catarina,Urbana,Total,7.4,4.4,4.5
+Santa Catarina,Rural,Total,6.8,4.5,4.9
+Santa Catarina,Total,Federal,4.0,4.7,8.0
+Santa Catarina,Urbana,Federal,4.0,4.7,8.0
+Santa Catarina,Rural,Federal,,,8.2
+Santa Catarina,Total,Estadual,12.0,4.2,4.2
+Santa Catarina,Urbana,Estadual,12.0,4.2,4.2
+Santa Catarina,Rural,Estadual,,4.2,4.3
+Santa Catarina,Total,Municipal,7.3,4.5,6.4
+Santa Catarina,Urbana,Municipal,7.4,4.5,5.5
+Santa Catarina,Rural,Municipal,6.6,4.6,8.1
+Santa Catarina,Total,Privada,7.7,4.7,5.4
+Santa Catarina,Urbana,Privada,7.7,4.7,5.4
+Santa Catarina,Rural,Privada,10.3,4.3,4.4
+Santa Catarina,Total,Pública,7.3,4.4,4.4
+Santa Catarina,Urbana,Pública,7.4,4.4,4.4
+Santa Catarina,Rural,Pública,6.6,4.5,5.0
+Rio Grande do Sul,Total,Total,7.7,4.6,5.6
+Rio Grande do Sul,Urbana,Total,7.9,4.6,5.5
+Rio Grande do Sul,Rural,Total,5.7,4.7,7.0
+Rio Grande do Sul,Total,Federal,6.6,5.3,6.7
+Rio Grande do Sul,Urbana,Federal,6.6,5.3,6.2
+Rio Grande do Sul,Rural,Federal,,,8.5
+Rio Grande do Sul,Total,Estadual,4.7,4.6,5.5
+Rio Grande do Sul,Urbana,Estadual,6.0,4.6,5.5
+Rio Grande do Sul,Rural,Estadual,4.2,4.5,6.3
+Rio Grande do Sul,Total,Municipal,7.2,4.6,5.1
+Rio Grande do Sul,Urbana,Municipal,7.3,4.5,5.1
+Rio Grande do Sul,Rural,Municipal,5.7,4.8,5.3
+Rio Grande do Sul,Total,Privada,8.9,4.6,5.8
+Rio Grande do Sul,Urbana,Privada,8.9,4.6,5.7
+Rio Grande do Sul,Rural,Privada,8.6,4.4,8.4
+Rio Grande do Sul,Total,Pública,7.2,4.6,5.6
+Rio Grande do Sul,Urbana,Pública,7.3,4.6,5.5
+Rio Grande do Sul,Rural,Pública,5.6,4.7,6.9
+Mato Grosso do Sul,Total,Total,6.0,4.9,5.9
+Mato Grosso do Sul,Urbana,Total,6.1,4.9,5.9
+Mato Grosso do Sul,Rural,Total,4.8,5.0,5.9
+Mato Grosso do Sul,Total,Federal,,5.0,5.3
+Mato Grosso do Sul,Urbana,Federal,,5.0,5.3
+Mato Grosso do Sul,Rural,Federal,,,4.8
+Mato Grosso do Sul,Total,Estadual,10.0,5.7,5.8
+Mato Grosso do Sul,Urbana,Estadual,10.0,5.7,5.8
+Mato Grosso do Sul,Rural,Estadual,,4.9,5.7
+Mato Grosso do Sul,Total,Municipal,6.1,4.7,8.5
+Mato Grosso do Sul,Urbana,Municipal,6.2,4.6,
+Mato Grosso do Sul,Rural,Municipal,4.8,5.0,8.5
+Mato Grosso do Sul,Total,Privada,5.4,4.8,6.8
+Mato Grosso do Sul,Urbana,Privada,5.4,4.7,6.7
+Mato Grosso do Sul,Rural,Privada,5.4,9.9,9.4
+Mato Grosso do Sul,Total,Pública,6.1,4.9,5.8
+Mato Grosso do Sul,Urbana,Pública,6.2,4.9,5.8
+Mato Grosso do Sul,Rural,Pública,4.8,5.0,5.7
+Mato Grosso,Total,Total,5.3,4.5,5.1
+Mato Grosso,Urbana,Total,5.3,4.5,5.0
+Mato Grosso,Rural,Total,4.6,4.6,5.8
+Mato Grosso,Total,Federal,,,8.0
+Mato Grosso,Urbana,Federal,,,7.5
+Mato Grosso,Rural,Federal,,,9.4
+Mato Grosso,Total,Estadual,,4.5,4.8
+Mato Grosso,Urbana,Estadual,,4.5,4.8
+Mato Grosso,Rural,Estadual,,4.4,4.9
+Mato Grosso,Total,Municipal,5.3,4.5,
+Mato Grosso,Urbana,Municipal,5.3,4.5,
+Mato Grosso,Rural,Municipal,4.6,4.7,
+Mato Grosso,Total,Privada,5.3,4.6,5.6
+Mato Grosso,Urbana,Privada,5.3,4.6,5.7
+Mato Grosso,Rural,Privada,4.4,4.5,4.4
+Mato Grosso,Total,Pública,5.3,4.5,5.0
+Mato Grosso,Urbana,Pública,5.3,4.5,4.9
+Mato Grosso,Rural,Pública,4.6,4.6,5.8
+Goiás,Total,Total,6.2,5.0,5.7
+Goiás,Urbana,Total,6.3,5.0,5.7
+Goiás,Rural,Total,4.8,4.8,6.6
+Goiás,Total,Federal,7.3,5.5,9.6
+Goiás,Urbana,Federal,7.3,5.5,9.2
+Goiás,Rural,Federal,,,10.8
+Goiás,Total,Estadual,10.3,5.5,5.6
+Goiás,Urbana,Estadual,10.3,5.5,5.6
+Goiás,Rural,Estadual,,4.6,4.6
+Goiás,Total,Municipal,6.5,4.9,5.9
+Goiás,Urbana,Municipal,6.5,4.9,6.1
+Goiás,Rural,Municipal,4.7,4.8,4.1
+Goiás,Total,Privada,5.5,4.6,5.5
+Goiás,Urbana,Privada,5.5,4.6,5.5
+Goiás,Rural,Privada,6.3,4.7,7.2
+Goiás,Total,Pública,6.5,5.1,5.7
+Goiás,Urbana,Pública,6.5,5.1,5.7
+Goiás,Rural,Pública,4.7,4.8,6.5
+Distrito Federal,Total,Total,6.5,5.3,5.4
+Distrito Federal,Urbana,Total,6.5,5.3,5.4
+Distrito Federal,Rural,Total,5.9,5.9,5.9
+Distrito Federal,Total,Federal,,5.0,6.2
+Distrito Federal,Urbana,Federal,,5.0,5.8
+Distrito Federal,Rural,Federal,,,8.5
+Distrito Federal,Total,Estadual,5.2,5.4,5.2
+Distrito Federal,Urbana,Estadual,5.1,5.4,5.2
+Distrito Federal,Rural,Estadual,5.7,5.8,5.2
+Distrito Federal,Total,Privada,7.4,5.1,5.8
+Distrito Federal,Urbana,Privada,7.4,5.0,5.8
+Distrito Federal,Rural,Privada,7.5,7.5,5.8
+Distrito Federal,Total,Pública,5.2,5.4,5.3
+Distrito Federal,Urbana,Pública,5.1,5.4,5.2
+Distrito Federal,Rural,Pública,5.7,5.8,5.9
+,,,,,
+,,,,,
+,,,,,
