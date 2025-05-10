@@ -50,11 +50,3 @@ Capacitar no uso de ferramentas e técnicas de Ciência de Dados aplicadas a pro
 
 Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir uma issue ou fazer um fork e enviar um pull request.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
-
-```
-
-Se quiser, posso salvar esse conteúdo direto em um novo arquivo `README.md` e te enviar. Deseja isso?
-```
